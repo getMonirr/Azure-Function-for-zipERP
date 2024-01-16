@@ -1,0 +1,875 @@
+{
+    "_id": "65a644c31f84e8e6d43b9665",
+    "ShopifyInput": {
+        "id": 5490130944253.0,
+        "admin_graphql_api_id": "gid://shopify/Order/5490130944253",
+        "app_id": 52937588737.0,
+        "browser_ip": null,
+        "buyer_accepts_marketing": true,
+        "cancel_reason": null,
+        "cancelled_at": null,
+        "cart_token": null,
+        "checkout_id": null,
+        "checkout_token": null,
+        "client_details": null,
+        "closed_at": null,
+        "confirmation_number": "WI2V5VKMC",
+        "confirmed": true,
+        "contact_email": "manamandara@gmail.com",
+        "created_at": "2024-01-16T13:28:30+05:30",
+        "currency": "INR",
+        "current_subtotal_price": "5155.00",
+        "current_subtotal_price_set": {
+            "shop_money": {
+                "amount": "5155.00",
+                "currency_code": "INR"
+            },
+            "presentment_money": {
+                "amount": "5155.00",
+                "currency_code": "INR"
+            }
+        },
+        "current_total_additional_fees_set": null,
+        "current_total_discounts": "0.00",
+        "current_total_discounts_set": {
+            "shop_money": {
+                "amount": "0.00",
+                "currency_code": "INR"
+            },
+            "presentment_money": {
+                "amount": "0.00",
+                "currency_code": "INR"
+            }
+        },
+        "current_total_duties_set": null,
+        "current_total_price": "5155.00",
+        "current_total_price_set": {
+            "shop_money": {
+                "amount": "5155.00",
+                "currency_code": "INR"
+            },
+            "presentment_money": {
+                "amount": "5155.00",
+                "currency_code": "INR"
+            }
+        },
+        "current_total_tax": "786.36",
+        "current_total_tax_set": {
+            "shop_money": {
+                "amount": "786.36",
+                "currency_code": "INR"
+            },
+            "presentment_money": {
+                "amount": "786.36",
+                "currency_code": "INR"
+            }
+        },
+        "customer_locale": null,
+        "device_id": null,
+        "email": "manamandara@gmail.com",
+        "estimated_taxes": false,
+        "financial_status": "paid",
+        "fulfillment_status": "fulfilled",
+        "landing_site": null,
+        "landing_site_ref": null,
+        "location_id": null,
+        "merchant_of_record_app_id": null,
+        "name": "#APPL92671",
+        "note": "",
+        "note_attributes": [
+            {
+                "name": "cart_token",
+                "value": "Z2NwLXVzLWNlbnRyYWwxOjAxSE04S0Y0REVKR0VWNjM4SkNGQVJZTTdH",
+                "_id": "65a644c31f84e8e6d43b9666"
+            },
+            {
+                "name": "landing_page",
+                "value": "/products/amrutam-kumkumadi-oil",
+                "_id": "65a644c31f84e8e6d43b9667"
+            },
+            {
+                "name": "orig_referrer",
+                "value": "https://www.google.com/",
+                "_id": "65a644c31f84e8e6d43b9668"
+            }
+        ],
+        "number": 91671,
+        "order_number": 92671,
+        "order_status_url": "https://amrutam.co.in/64596508925/orders/20a0e4f8ab16a3a2cb51ac2197222761/authenticate?key=92a692ca9eb22de56871d79651055c69",
+        "original_total_additional_fees_set": null,
+        "original_total_duties_set": null,
+        "payment_gateway_names": [
+            "shopflo"
+        ],
+        "phone": "+919886625693",
+        "po_number": null,
+        "presentment_currency": "INR",
+        "processed_at": "2024-01-16T13:28:30+05:30",
+        "reference": null,
+        "referring_site": null,
+        "source_identifier": null,
+        "source_name": "Created by Shopflo",
+        "source_url": null,
+        "subtotal_price": "5155.00",
+        "subtotal_price_set": {
+            "shop_money": {
+                "amount": "5155.00",
+                "currency_code": "INR"
+            },
+            "presentment_money": {
+                "amount": "5155.00",
+                "currency_code": "INR"
+            }
+        },
+        "tags": "CASHFREE, ONLINE, pg:2398942295, Shopflo",
+        "tax_exempt": false,
+        "tax_lines": [
+            {
+                "price": "262.12",
+                "rate": 0.06,
+                "title": "CGST",
+                "price_set": {
+                    "shop_money": {
+                        "amount": "262.12",
+                        "currency_code": "INR"
+                    },
+                    "presentment_money": {
+                        "amount": "262.12",
+                        "currency_code": "INR"
+                    }
+                },
+                "channel_liable": false,
+                "_id": "65a644c31f84e8e6d43b9669"
+            },
+            {
+                "price": "524.24",
+                "rate": 0.12,
+                "title": "IGST",
+                "price_set": {
+                    "shop_money": {
+                        "amount": "524.24",
+                        "currency_code": "INR"
+                    },
+                    "presentment_money": {
+                        "amount": "524.24",
+                        "currency_code": "INR"
+                    }
+                },
+                "channel_liable": false,
+                "_id": "65a644c31f84e8e6d43b966a"
+            }
+        ],
+        "taxes_included": true,
+        "test": false,
+        "token": "20a0e4f8ab16a3a2cb51ac2197222761",
+        "total_discounts": "0.00",
+        "total_discounts_set": {
+            "shop_money": {
+                "amount": "0.00",
+                "currency_code": "INR"
+            },
+            "presentment_money": {
+                "amount": "0.00",
+                "currency_code": "INR"
+            }
+        },
+        "total_line_items_price": "5155.00",
+        "total_line_items_price_set": {
+            "shop_money": {
+                "amount": "5155.00",
+                "currency_code": "INR"
+            },
+            "presentment_money": {
+                "amount": "5155.00",
+                "currency_code": "INR"
+            }
+        },
+        "total_outstanding": "0.00",
+        "total_price": "5155.00",
+        "total_price_set": {
+            "shop_money": {
+                "amount": "5155.00",
+                "currency_code": "INR"
+            },
+            "presentment_money": {
+                "amount": "5155.00",
+                "currency_code": "INR"
+            }
+        },
+        "total_shipping_price_set": {
+            "shop_money": {
+                "amount": "0.00",
+                "currency_code": "INR"
+            },
+            "presentment_money": {
+                "amount": "0.00",
+                "currency_code": "INR"
+            }
+        },
+        "total_tax": "786.36",
+        "total_tax_set": {
+            "shop_money": {
+                "amount": "786.36",
+                "currency_code": "INR"
+            },
+            "presentment_money": {
+                "amount": "786.36",
+                "currency_code": "INR"
+            }
+        },
+        "total_tip_received": "0.00",
+        "total_weight": 0,
+        "updated_at": "2024-01-16T14:26:27+05:30",
+        "user_id": null,
+        "billing_address": {
+            "first_name": "Shruthi",
+            "address1": "Villa no. 543, Road no. 72 Concorde Napa Valley",
+            "phone": "+919886625693",
+            "city": "KARNATAKA",
+            "zip": "560082",
+            "province": "Karnataka",
+            "country": "India",
+            "last_name": "s bhatt",
+            "address2": "Gandhinagar, Kanakapura Road, BENGALURU",
+            "company": null,
+            "latitude": null,
+            "longitude": null,
+            "name": "Shruthi s bhatt",
+            "country_code": "IN",
+            "province_code": "KA"
+        },
+        "customer": {
+            "id": 6262654501117.0,
+            "email": "manamandara@gmail.com",
+            "created_at": "2022-06-21T09:52:21+05:30",
+            "updated_at": "2024-01-16T13:28:30+05:30",
+            "first_name": "Shruthi",
+            "last_name": "s",
+            "state": "disabled",
+            "note": "",
+            "verified_email": true,
+            "multipass_identifier": null,
+            "tax_exempt": false,
+            "phone": "+919886625693",
+            "email_marketing_consent": {
+                "state": "subscribed",
+                "opt_in_level": "single_opt_in",
+                "consent_updated_at": "2022-10-22T21:36:18+05:30"
+            },
+            "sms_marketing_consent": {
+                "state": "subscribed",
+                "opt_in_level": "single_opt_in",
+                "consent_updated_at": "2024-01-16T13:28:31+05:30",
+                "consent_collected_from": "OTHER"
+            },
+            "tags": "import_2022_06_20_184649, updated_import_2022_06_25_021646",
+            "currency": "INR",
+            "admin_graphql_api_id": "gid://shopify/Customer/6262654501117",
+            "default_address": {
+                "id": 8462978842877.0,
+                "customer_id": 6262654501117.0,
+                "first_name": "Shruthi",
+                "last_name": "s bhatt",
+                "company": null,
+                "address1": "Villa no. 543, Road no. 72 Concorde Napa Valley",
+                "address2": "Gandhinagar, Kanakapura Road, BENGALURU",
+                "city": "KARNATAKA",
+                "province": "Karnataka",
+                "country": "India",
+                "zip": "560082",
+                "phone": "+919886625693",
+                "name": "Shruthi s bhatt",
+                "province_code": "KA",
+                "country_code": "IN",
+                "country_name": "India",
+                "default": true
+            }
+        },
+        "line_items": [
+            {
+                "id": 13602134917373.0,
+                "admin_graphql_api_id": "gid://shopify/LineItem/13602134917373",
+                "current_quantity": 1,
+                "fulfillable_quantity": 0,
+                "fulfillment_service": "manual",
+                "fulfillment_status": "fulfilled",
+                "gift_card": false,
+                "grams": 0,
+                "name": "Amrutam Gulkand | Ayurvedic Rose Petals Jam - 100 GM",
+                "price": "209.00",
+                "price_set": {
+                    "shop_money": {
+                        "amount": "209.00",
+                        "currency_code": "INR"
+                    },
+                    "presentment_money": {
+                        "amount": "209.00",
+                        "currency_code": "INR"
+                    }
+                },
+                "product_exists": true,
+                "product_id": 7742599168253.0,
+                "quantity": 1,
+                "requires_shipping": true,
+                "sku": "AGD-100gms",
+                "taxable": true,
+                "title": "Amrutam Gulkand | Ayurvedic Rose Petals Jam",
+                "total_discount": "0.00",
+                "total_discount_set": {
+                    "shop_money": {
+                        "amount": "0.00",
+                        "currency_code": "INR"
+                    },
+                    "presentment_money": {
+                        "amount": "0.00",
+                        "currency_code": "INR"
+                    }
+                },
+                "variant_id": 43001499975933.0,
+                "variant_inventory_management": "shopify",
+                "variant_title": "100 GM",
+                "vendor": "Amrutam",
+                "tax_lines": [
+                    {
+                        "price": "10.63",
+                        "rate": 0.06,
+                        "title": "CGST",
+                        "price_set": {
+                            "shop_money": {
+                                "amount": "10.63",
+                                "currency_code": "INR"
+                            },
+                            "presentment_money": {
+                                "amount": "10.63",
+                                "currency_code": "INR"
+                            }
+                        },
+                        "channel_liable": false,
+                        "_id": "65a644c31f84e8e6d43b966c"
+                    },
+                    {
+                        "price": "21.26",
+                        "rate": 0.12,
+                        "title": "IGST",
+                        "price_set": {
+                            "shop_money": {
+                                "amount": "21.26",
+                                "currency_code": "INR"
+                            },
+                            "presentment_money": {
+                                "amount": "21.26",
+                                "currency_code": "INR"
+                            }
+                        },
+                        "channel_liable": false,
+                        "_id": "65a644c31f84e8e6d43b966d"
+                    }
+                ],
+                "_id": "65a644c31f84e8e6d43b966b"
+            },
+            {
+                "id": 13602134950141.0,
+                "admin_graphql_api_id": "gid://shopify/LineItem/13602134950141",
+                "current_quantity": 1,
+                "fulfillable_quantity": 0,
+                "fulfillment_service": "manual",
+                "fulfillment_status": "fulfilled",
+                "gift_card": false,
+                "grams": 132,
+                "name": "Amrutam Face Wash | Vedic Recipe for Healthy Skin - 100 ML",
+                "price": "949.00",
+                "price_set": {
+                    "shop_money": {
+                        "amount": "949.00",
+                        "currency_code": "INR"
+                    },
+                    "presentment_money": {
+                        "amount": "949.00",
+                        "currency_code": "INR"
+                    }
+                },
+                "product_exists": true,
+                "product_id": 7742586749181.0,
+                "quantity": 1,
+                "requires_shipping": true,
+                "sku": "AFC-01",
+                "taxable": true,
+                "title": "Amrutam Face Wash | Vedic Recipe for Healthy Skin",
+                "total_discount": "0.00",
+                "total_discount_set": {
+                    "shop_money": {
+                        "amount": "0.00",
+                        "currency_code": "INR"
+                    },
+                    "presentment_money": {
+                        "amount": "0.00",
+                        "currency_code": "INR"
+                    }
+                },
+                "variant_id": 44415538135293.0,
+                "variant_inventory_management": "shopify",
+                "variant_title": "100 ML",
+                "vendor": "Amrutam",
+                "tax_lines": [
+                    {
+                        "price": "48.26",
+                        "rate": 0.06,
+                        "title": "CGST",
+                        "price_set": {
+                            "shop_money": {
+                                "amount": "48.26",
+                                "currency_code": "INR"
+                            },
+                            "presentment_money": {
+                                "amount": "48.26",
+                                "currency_code": "INR"
+                            }
+                        },
+                        "channel_liable": false,
+                        "_id": "65a644c31f84e8e6d43b966f"
+                    },
+                    {
+                        "price": "96.51",
+                        "rate": 0.12,
+                        "title": "IGST",
+                        "price_set": {
+                            "shop_money": {
+                                "amount": "96.51",
+                                "currency_code": "INR"
+                            },
+                            "presentment_money": {
+                                "amount": "96.51",
+                                "currency_code": "INR"
+                            }
+                        },
+                        "channel_liable": false,
+                        "_id": "65a644c31f84e8e6d43b9670"
+                    }
+                ],
+                "_id": "65a644c31f84e8e6d43b966e"
+            },
+            {
+                "id": 13602134982909.0,
+                "admin_graphql_api_id": "gid://shopify/LineItem/13602134982909",
+                "current_quantity": 1,
+                "fulfillable_quantity": 0,
+                "fulfillment_service": "manual",
+                "fulfillment_status": "fulfilled",
+                "gift_card": false,
+                "grams": 0,
+                "name": "Amrutam Kuntal Care Herbal Shampoo | Healthy, Natural and Dynamic Hair | Travel Pack - 30 ML",
+                "price": "149.00",
+                "price_set": {
+                    "shop_money": {
+                        "amount": "149.00",
+                        "currency_code": "INR"
+                    },
+                    "presentment_money": {
+                        "amount": "149.00",
+                        "currency_code": "INR"
+                    }
+                },
+                "product_exists": true,
+                "product_id": 7742605230333.0,
+                "quantity": 1,
+                "requires_shipping": true,
+                "sku": "KCHSH-30ML",
+                "taxable": true,
+                "title": "Amrutam Kuntal Care Herbal Shampoo | Healthy, Natural and Dynamic Hair | Travel Pack",
+                "total_discount": "0.00",
+                "total_discount_set": {
+                    "shop_money": {
+                        "amount": "0.00",
+                        "currency_code": "INR"
+                    },
+                    "presentment_money": {
+                        "amount": "0.00",
+                        "currency_code": "INR"
+                    }
+                },
+                "variant_id": 44415627329789.0,
+                "variant_inventory_management": "shopify",
+                "variant_title": "30 ML",
+                "vendor": "Amrutam",
+                "tax_lines": [
+                    {
+                        "price": "7.58",
+                        "rate": 0.06,
+                        "title": "CGST",
+                        "price_set": {
+                            "shop_money": {
+                                "amount": "7.58",
+                                "currency_code": "INR"
+                            },
+                            "presentment_money": {
+                                "amount": "7.58",
+                                "currency_code": "INR"
+                            }
+                        },
+                        "channel_liable": false,
+                        "_id": "65a644c31f84e8e6d43b9672"
+                    },
+                    {
+                        "price": "15.16",
+                        "rate": 0.12,
+                        "title": "IGST",
+                        "price_set": {
+                            "shop_money": {
+                                "amount": "15.16",
+                                "currency_code": "INR"
+                            },
+                            "presentment_money": {
+                                "amount": "15.16",
+                                "currency_code": "INR"
+                            }
+                        },
+                        "channel_liable": false,
+                        "_id": "65a644c31f84e8e6d43b9673"
+                    }
+                ],
+                "_id": "65a644c31f84e8e6d43b9671"
+            },
+            {
+                "id": 13602135015677.0,
+                "admin_graphql_api_id": "gid://shopify/LineItem/13602135015677",
+                "current_quantity": 1,
+                "fulfillable_quantity": 0,
+                "fulfillment_service": "manual",
+                "fulfillment_status": "fulfilled",
+                "gift_card": false,
+                "grams": 237,
+                "name": "Amrutam Kuntal Care Herbal Shampoo | Healthy, Natural and Dynamic Hair - 200 ML",
+                "price": "599.00",
+                "price_set": {
+                    "shop_money": {
+                        "amount": "599.00",
+                        "currency_code": "INR"
+                    },
+                    "presentment_money": {
+                        "amount": "599.00",
+                        "currency_code": "INR"
+                    }
+                },
+                "product_exists": true,
+                "product_id": 7742604804349.0,
+                "quantity": 1,
+                "requires_shipping": true,
+                "sku": "AM-44",
+                "taxable": true,
+                "title": "Amrutam Kuntal Care Herbal Shampoo | Healthy, Natural and Dynamic Hair",
+                "total_discount": "0.00",
+                "total_discount_set": {
+                    "shop_money": {
+                        "amount": "0.00",
+                        "currency_code": "INR"
+                    },
+                    "presentment_money": {
+                        "amount": "0.00",
+                        "currency_code": "INR"
+                    }
+                },
+                "variant_id": 44176704536829.0,
+                "variant_inventory_management": "shopify",
+                "variant_title": "200 ML",
+                "vendor": "Amrutam",
+                "tax_lines": [
+                    {
+                        "price": "30.46",
+                        "rate": 0.06,
+                        "title": "CGST",
+                        "price_set": {
+                            "shop_money": {
+                                "amount": "30.46",
+                                "currency_code": "INR"
+                            },
+                            "presentment_money": {
+                                "amount": "30.46",
+                                "currency_code": "INR"
+                            }
+                        },
+                        "channel_liable": false,
+                        "_id": "65a644c31f84e8e6d43b9675"
+                    },
+                    {
+                        "price": "60.92",
+                        "rate": 0.12,
+                        "title": "IGST",
+                        "price_set": {
+                            "shop_money": {
+                                "amount": "60.92",
+                                "currency_code": "INR"
+                            },
+                            "presentment_money": {
+                                "amount": "60.92",
+                                "currency_code": "INR"
+                            }
+                        },
+                        "channel_liable": false,
+                        "_id": "65a644c31f84e8e6d43b9676"
+                    }
+                ],
+                "_id": "65a644c31f84e8e6d43b9674"
+            },
+            {
+                "id": 13602135048445.0,
+                "admin_graphql_api_id": "gid://shopify/LineItem/13602135048445",
+                "current_quantity": 1,
+                "fulfillable_quantity": 0,
+                "fulfillment_service": "manual",
+                "fulfillment_status": "fulfilled",
+                "gift_card": false,
+                "grams": 0,
+                "name": "Amrutam Kumkumadi Oil | Ayurvedic Recipe for Skin Radiance - 25 ML",
+                "price": "3249.00",
+                "price_set": {
+                    "shop_money": {
+                        "amount": "3249.00",
+                        "currency_code": "INR"
+                    },
+                    "presentment_money": {
+                        "amount": "3249.00",
+                        "currency_code": "INR"
+                    }
+                },
+                "product_exists": true,
+                "product_id": 7742587764989.0,
+                "quantity": 1,
+                "requires_shipping": true,
+                "sku": "KO-25ML",
+                "taxable": true,
+                "title": "Amrutam Kumkumadi Oil | Ayurvedic Recipe for Skin Radiance",
+                "total_discount": "0.00",
+                "total_discount_set": {
+                    "shop_money": {
+                        "amount": "0.00",
+                        "currency_code": "INR"
+                    },
+                    "presentment_money": {
+                        "amount": "0.00",
+                        "currency_code": "INR"
+                    }
+                },
+                "variant_id": 43264452198653.0,
+                "variant_inventory_management": "shopify",
+                "variant_title": "25 ML",
+                "vendor": "Amrutam",
+                "tax_lines": [
+                    {
+                        "price": "165.19",
+                        "rate": 0.06,
+                        "title": "CGST",
+                        "price_set": {
+                            "shop_money": {
+                                "amount": "165.19",
+                                "currency_code": "INR"
+                            },
+                            "presentment_money": {
+                                "amount": "165.19",
+                                "currency_code": "INR"
+                            }
+                        },
+                        "channel_liable": false,
+                        "_id": "65a644c31f84e8e6d43b9678"
+                    },
+                    {
+                        "price": "330.39",
+                        "rate": 0.12,
+                        "title": "IGST",
+                        "price_set": {
+                            "shop_money": {
+                                "amount": "330.39",
+                                "currency_code": "INR"
+                            },
+                            "presentment_money": {
+                                "amount": "330.39",
+                                "currency_code": "INR"
+                            }
+                        },
+                        "channel_liable": false,
+                        "_id": "65a644c31f84e8e6d43b9679"
+                    }
+                ],
+                "_id": "65a644c31f84e8e6d43b9677"
+            },
+            {
+                "id": 13602135081213.0,
+                "admin_graphql_api_id": "gid://shopify/LineItem/13602135081213",
+                "current_quantity": 1,
+                "fulfillable_quantity": 0,
+                "fulfillment_service": "manual",
+                "fulfillment_status": "fulfilled",
+                "gift_card": false,
+                "grams": 0,
+                "name": "Amrutam Kumkumadi Oil | Ayurvedic Recipe for Skin Radiance - 12 ML",
+                "price": "0.00",
+                "price_set": {
+                    "shop_money": {
+                        "amount": "0.00",
+                        "currency_code": "INR"
+                    },
+                    "presentment_money": {
+                        "amount": "0.00",
+                        "currency_code": "INR"
+                    }
+                },
+                "product_exists": true,
+                "product_id": 7742587764989.0,
+                "quantity": 1,
+                "requires_shipping": true,
+                "sku": "KO-12ML",
+                "taxable": true,
+                "title": "Amrutam Kumkumadi Oil | Ayurvedic Recipe for Skin Radiance",
+                "total_discount": "0.00",
+                "total_discount_set": {
+                    "shop_money": {
+                        "amount": "0.00",
+                        "currency_code": "INR"
+                    },
+                    "presentment_money": {
+                        "amount": "0.00",
+                        "currency_code": "INR"
+                    }
+                },
+                "variant_id": 43001453740285.0,
+                "variant_inventory_management": "shopify",
+                "variant_title": "12 ML",
+                "vendor": "Amrutam",
+                "tax_lines": [
+                    {
+                        "price": "0.00",
+                        "rate": 0.06,
+                        "title": "CGST",
+                        "price_set": {
+                            "shop_money": {
+                                "amount": "0.00",
+                                "currency_code": "INR"
+                            },
+                            "presentment_money": {
+                                "amount": "0.00",
+                                "currency_code": "INR"
+                            }
+                        },
+                        "channel_liable": false,
+                        "_id": "65a644c31f84e8e6d43b967b"
+                    },
+                    {
+                        "price": "0.00",
+                        "rate": 0.12,
+                        "title": "IGST",
+                        "price_set": {
+                            "shop_money": {
+                                "amount": "0.00",
+                                "currency_code": "INR"
+                            },
+                            "presentment_money": {
+                                "amount": "0.00",
+                                "currency_code": "INR"
+                            }
+                        },
+                        "channel_liable": false,
+                        "_id": "65a644c31f84e8e6d43b967c"
+                    }
+                ],
+                "_id": "65a644c31f84e8e6d43b967a"
+            }
+        ],
+        "shipping_address": {
+            "first_name": "Shruthi",
+            "address1": "Villa no. 543, Road no. 72 Concorde Napa Valley",
+            "phone": "+919886625693",
+            "city": "KARNATAKA",
+            "zip": "560082",
+            "province": "Karnataka",
+            "country": "India",
+            "last_name": "s bhatt",
+            "address2": "Gandhinagar, Kanakapura Road, BENGALURU",
+            "company": null,
+            "latitude": "12.7866831",
+            "longitude": "77.5138288",
+            "name": "Shruthi s bhatt",
+            "country_code": "IN",
+            "province_code": "KA"
+        },
+        "shipping_lines": [
+            {
+                "id": 4519962411261.0,
+                "carrier_identifier": null,
+                "code": "custom",
+                "discounted_price": "0.00",
+                "discounted_price_set": {
+                    "shop_money": {
+                        "amount": "0.00",
+                        "currency_code": "INR"
+                    },
+                    "presentment_money": {
+                        "amount": "0.00",
+                        "currency_code": "INR"
+                    }
+                },
+                "phone": null,
+                "price": "0.00",
+                "price_set": {
+                    "shop_money": {
+                        "amount": "0.00",
+                        "currency_code": "INR"
+                    },
+                    "presentment_money": {
+                        "amount": "0.00",
+                        "currency_code": "INR"
+                    }
+                },
+                "requested_fulfillment_service_id": null,
+                "source": null,
+                "title": "FREE SHIPPING",
+                "_id": "65a644c31f84e8e6d43b967d"
+            }
+        ]
+    },
+    "batchListItemAndStore": [
+        {
+            "itemId": "2cc6abed-7f6f-4011-8b30-eaf8644cafed",
+            "batchListApiResponse": {
+                "dtBatchListByItemAndStore": []
+            },
+            "_id": "65a644c31f84e8e6d43b967e"
+        },
+        {
+            "itemId": "d7380527-2f5a-4b49-a0d2-d5067123dd42",
+            "batchListApiResponse": {
+                "dtBatchListByItemAndStore": []
+            },
+            "_id": "65a644c31f84e8e6d43b967f"
+        },
+        {
+            "itemId": "c367716e-2374-4eca-99ef-e4f0a4b0b46a",
+            "batchListApiResponse": {
+                "dtBatchListByItemAndStore": []
+            },
+            "_id": "65a644c31f84e8e6d43b9680"
+        },
+        {
+            "itemId": "48c0eca5-8679-4888-9750-fbdf7f85383d",
+            "batchListApiResponse": {
+                "dtBatchListByItemAndStore": []
+            },
+            "_id": "65a644c31f84e8e6d43b9681"
+        },
+        {
+            "itemId": "e691a5e9-7ef3-4908-a625-8c4ae94277c8",
+            "batchListApiResponse": {
+                "dtBatchListByItemAndStore": []
+            },
+            "_id": "65a644c31f84e8e6d43b9682"
+        },
+        {
+            "itemId": "20169279-f1d9-434a-ab7c-34fb4317c8ec",
+            "batchListApiResponse": {
+                "dtBatchListByItemAndStore": []
+            },
+            "_id": "65a644c31f84e8e6d43b9683"
+        }
+    ],
+    "createdAt": "2024-01-16T08:56:35.895+0000",
+    "updatedAt": "2024-01-16T08:56:35.895+0000",
+    "__v": 0
+}
